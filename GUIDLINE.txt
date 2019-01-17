@@ -1,0 +1,9 @@
+1. Download Postman software https://www.getpostman.com/
+
+2. IMPORT DATABASE USING WAMP OR LAMP SERVICES EASILY
+
+3. FIRST MAKE database.php file
+
+4. THEN post.php file
+
+5. FINALLY we always call different way with help of CRUD(Create,Read,Update,Delete) METHODs.
